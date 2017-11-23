@@ -1,2 +1,4 @@
 # hello-world
-My first step on github.
+This is my first step on github.
+I'm learning how to use github and python to make myself better engineer.
+
